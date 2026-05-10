@@ -100,3 +100,7 @@ Matplotlib (Visualization)
 Artwork: - Custom sprites created using Piskel.
 
 Placeholder backgrounds: - I use AI called Gemini to generate background picture for me.
+
+## 8. Youtube Link
+https://youtu.be/ygrWgNIkc2c
+
