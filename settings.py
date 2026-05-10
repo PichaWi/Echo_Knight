@@ -58,41 +58,41 @@ ZOMBIE_DAMAGE = 2
 SKELETON_DAMAGE = 2
 
 # Player assets
-PLAYER_IDLE_RIGHT = "assets/player/player_idle_right.png"
-PLAYER_IDLE_LEFT = "assets/player/player_idle_left.png"
-PLAYER_RUN_RIGHT = "assets/player/player_run_right.png"
-PLAYER_RUN_LEFT = "assets/player/player_run_left.png"
-PLAYER_JUMP_RIGHT = "assets/player/player_jump_right.png"
-PLAYER_JUMP_LEFT = "assets/player/player_jump_left.png"
-PLAYER_FALL_RIGHT = "assets/player/player_fall_right.png"
-PLAYER_FALL_LEFT = "assets/player/player_fall_left.png"
-PLAYER_ATTACK_RIGHT = "assets/player/player_attack_right.png"
-PLAYER_ATTACK_LEFT = "assets/player/player_attack_left.png"
-PLAYER_CANNON_RIGHT = "assets/player/player_cannon_right.png"
-PLAYER_CANNON_LEFT = "assets/player/player_cannon_left.png"
+PLAYER_IDLE_RIGHT = "Year_Project/assets/player/player_idle_right.png"
+PLAYER_IDLE_LEFT = "Year_Project/assets/player/player_idle_left.png"
+PLAYER_RUN_RIGHT = "Year_Project/assets/player/player_run_right.png"
+PLAYER_RUN_LEFT = "Year_Project/assets/player/player_run_left.png"
+PLAYER_JUMP_RIGHT = "Year_Project/assets/player/player_jump_right.png"
+PLAYER_JUMP_LEFT = "Year_Project/assets/player/player_jump_left.png"
+PLAYER_FALL_RIGHT = "Year_Project/assets/player/player_fall_right.png"
+PLAYER_FALL_LEFT = "Year_Project/assets/player/player_fall_left.png"
+PLAYER_ATTACK_RIGHT = "Year_Project/assets/player/player_attack_right.png"
+PLAYER_ATTACK_LEFT = "Year_Project/assets/player/player_attack_left.png"
+PLAYER_CANNON_RIGHT = "Year_Project/assets/player/player_cannon_right.png"
+PLAYER_CANNON_LEFT = "Year_Project/assets/player/player_cannon_left.png"
 
 # Enemy assets
-SLIME_IMG = "assets/enemies/slime.png"
-BAT_IMG = "assets/enemies/bat.png"
-ZOMBIE_IMG = "assets/enemies/zombie.png"
-SKELETON_PLAIN_IMG = "assets/enemies/skeleton_plain.png"
-SKELETON_SWORD_IMG = "assets/enemies/skeleton_sword.png"
-SKELETON_BOW_IMG = "assets/enemies/skeleton_bow.png"
+SLIME_IMG = "Year_Project/assets/enemies/slime.png"
+BAT_IMG = "Year_Project/assets/enemies/bat.png"
+ZOMBIE_IMG = "Year_Project/assets/enemies/zombie.png"
+SKELETON_PLAIN_IMG = "Year_Project/assets/enemies/skeleton_plain.png"
+SKELETON_SWORD_IMG = "Year_Project/assets/enemies/skeleton_sword.png"
+SKELETON_BOW_IMG = "Year_Project/assets/enemies/skeleton_bow.png"
 
 # Projectile assets
-PINK_LASER_IMG = "assets/projectiles/pink_laser.png"
-ENEMY_ARROW_IMG = "assets/projectiles/enemy_arrow.png"
+PINK_LASER_IMG = "Year_Project/assets/projectiles/pink_laser.png"
+ENEMY_ARROW_IMG = "Year_Project/assets/projectiles/enemy_arrow.png"
 
 # Backgrounds
-BACKGROUND_1 = "assets/backgrounds/background_1.png"
-BACKGROUND_2 = "assets/backgrounds/background_2.png"
-BACKGROUND_3 = "assets/backgrounds/background_3.png"
+BACKGROUND_1 = "Year_Project/assets/backgrounds/background_1.png"
+BACKGROUND_2 = "Year_Project/assets/backgrounds/background_2.png"
+BACKGROUND_3 = "Year_Project/assets/backgrounds/background_3.png"
 
 # Tiles
-GROUND_TILE = "assets/tiles/ground_tile.png"
-PLATFORM_TILE = "assets/tiles/platform_tile.png"
+GROUND_TILE = "Year_Project/assets/tiles/ground_tile.png"
+PLATFORM_TILE = "Year_Project/assets/tiles/platform_tile.png"
 
 # Objects
-CRATE_IMG = "assets/objects/crate.png"
-TORCH_IMG = "assets/objects/torch.png"
-STONE_IMG = "assets/objects/stone.png"
+CRATE_IMG = "Year_Project/assets/objects/crate.png"
+TORCH_IMG = "Year_Project/assets/objects/torch.png"
+STONE_IMG = "Year_Project/assets/objects/stone.png"
