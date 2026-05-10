@@ -50,6 +50,7 @@ StatsManager: Handles the association between game events and CSV file storage.
 
 **Submission Requirement:**  
 - Attach the UML Class Diagram in **.pdf format**
+![Echo Knight UML Diagram](./Uml_Diagram.pdf)
 
 ---
 
