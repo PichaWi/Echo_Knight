@@ -216,7 +216,6 @@ class EchoKnight:
 
         lines = [
             "Echo Knight project",
-            "Player sprite based on your original character",
             "Side-scrolling prototype with melee and cannon attack",
             "Click or press ESC to return"
         ]
